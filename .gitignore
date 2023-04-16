@@ -1,2 +1,6 @@
 *.doc
 *.docx
+*.pdf
+*.gz
+*.bin.gz
+*.bin
