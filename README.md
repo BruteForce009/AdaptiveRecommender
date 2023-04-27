@@ -1,6 +1,5 @@
 # Adaptive Recommender
-A recommendation system that can suggest personalized news articles or blog posts to users based on their reading history and interests. Utilizes the News Category dataset containing around 210k news headlines from HuffPost, which has been cleaned and pre-processed. It is based on content-based filtering, which recommends articles
-based on their similarity to a given article. This system will be able to learn and adapt to the user's preferences over time and provide relevant and engaging content.
+A recommendation system that can suggest personalized news articles or blog posts to users based on their reading history and interests. Utilizes the News Category dataset containing around 210k news headlines from HuffPost, which has been cleaned and pre-processed using Word2Vec and ntlk. It is based on content-based filtering, which recommends articles based on their similarity to a given article. This system will be able to learn and adapt to the user's preferences over time and provide relevant and engaging content.
 <br/><br/>
 
 ### Content-based filtering
